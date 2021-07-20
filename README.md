@@ -51,23 +51,23 @@
 
 - ### Type
 
-  |    태그 이름     |                                   설명                                    |          관련 Emoji          |
-  | :--------------: | :-----------------------------------------------------------------------: | :--------------------------: |
-  |       Feat       |                         새로운 기능을 추가할 경우                         |          :sparkles:          |
-  |       Fix        |                             버그를 고친 경우                              |            :bug:             |
-  |      Design      |                       CSS 등 사용자 UI 디자인 변경                        |          :lipstick:          |
-  | !BREAKING CHANGE |                                대규모 수정                                |            :boom:            |
-  |     !HOTFIX      |                  급하게 치명적인 버그를 고쳐야하는 경우                   |         :ambulance:          |
-  |      Style       |           코드 포맷 변경, 세미 콜론 누락, 코드 수정이 없는 경우           |            :art:             |
-  |     Refactor     |                          프로덕션 코드 리팩토링                           | :recycle:\:recycle:<br>:zap: |
-  |     Comment      |                             주석 추가 및 변경                             |            :bulb:            |
-  |       Docs       |                            문서를 수정한 경우                             |            :memo:            |
-  |       Test       |            테스트 추가, 테스트 리팩토링(프로덕션 코드 변경 X)             |           테스트3            |
-  |      Chore       | 빌드 태스트 업데이트, 패키지 매니저를 설정하는 경우(프로덕션 코드 변경 X) |           테스트3            |
-  |      Create      |                           새파일을 생성한 경우                            |         :newspaper:          |
-  |      Rename      |            파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우             |           테스트3            |
-  |      Remove      |                    파일을 삭제하는 작업만 수행한 경우                     |            :fire:            |
-  |      Update      |                       여러가지 복합적인 변경인 경우                       |        :raised_hands:        |
+  |    태그 이름     |                                   설명                                    |                       관련 Emoji                       |
+  | :--------------: | :-----------------------------------------------------------------------: | :----------------------------------------------------: |
+  |       Feat       |                         새로운 기능을 추가할 경우                         |                   :sparkles:sparkles                   |
+  |       Fix        |                             버그를 고친 경우                              |                        :bug:bug                        |
+  |      Design      |                       CSS 등 사용자 UI 디자인 변경                        |                   :lipstick:lipstick                   |
+  | !BREAKING CHANGE |                                대규모 수정                                |                       :boom:boom                       |
+  |     !HOTFIX      |                  급하게 치명적인 버그를 고쳐야하는 경우                   |                  :ambulance:ambulance                  |
+  |      Style       |           코드 포맷 변경, 세미 콜론 누락, 코드 수정이 없는 경우           |                        :art:art                        |
+  |     Refactor     |                          프로덕션 코드 리팩토링                           |              :recycle:recycle<br>:zap:zap              |
+  |     Comment      |                             주석 추가 및 변경                             |                       :bulb:bulb                       |
+  |       Docs       |                            문서를 수정한 경우                             |                       :memo:memo                       |
+  |       Test       |            테스트 추가, 테스트 리팩토링(프로덕션 코드 변경 X)             |                  :test_tube:test_tube                  |
+  |      Chore       | 빌드 태스트 업데이트, 패키지 매니저를 설정하는 경우(프로덕션 코드 변경 X) |      :building_construction:building_construction      |
+  |      Create      |                           새파일을 생성한 경우                            |                      :newspaper:                       |
+  |      Rename      |            파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우             |                      :truck:truck                      |
+  |      Remove      |                    파일을 삭제하는 작업만 수행한 경우                     |                         :fire:                         |
+  |      Update      |                       여러가지 복합적인 변경인 경우                       | :raised_hands:raised_hands<br>:wastebasket:wastebasket |
 
 - ### scope
   - 추가적인 문맥 정보를 제공하기 위한 목적으로 괄호 안에 작성
