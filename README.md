@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Good%20Commit%20Message&fontSize=30&fontAlign=50&fontAlignY=50)
 
 > :memo: 좋은 커밋 메시지 작성하기 <br>
-> 레포지토리를 관리하는 중 기존 커밋 메시지들이 너무 지저분해서 규칙을 정하고 정리하기 위해 작성했습니다.
 
 ## :bookmark: Commit Message
 
@@ -51,23 +50,23 @@
 
 - ### Type
 
-  |    태그 이름     | 설명                                                                          | 관련 Emoji                                             |
-  | :--------------: | :---------------------------------------------------------------------------- | :----------------------------------------------------- |
-  |       Feat       | 새로운 기능을 추가할 경우                                                     | :sparkles:sparkles                                     |
-  |       Fix        | 버그를 고친 경우                                                              | :bug:bug                                               |
-  |      Design      | CSS 등 사용자 UI 디자인 변경                                                  | :lipstick:lipstick                                     |
-  | !BREAKING CHANGE | 대규모 수정                                                                   | :boom:boom                                             |
-  |     !HOTFIX      | 급하게 치명적인 버그를 고쳐야하는 경우                                        | :ambulance:ambulance                                   |
-  |      Style       | 코드 포맷 변경, 세미 콜론 누락,<br> 코드 수정이 없는 경우                     | :art:art                                               |
-  |     Refactor     | 프로덕션 코드 리팩토링                                                        | :recycle:recycle<br>:zap:zap                           |
-  |     Comment      | 주석 추가 및 변경                                                             | :bulb:bulb                                             |
-  |       Docs       | 문서를 수정한 경우                                                            | :memo:memo                                             |
-  |       Test       | 테스트 추가, 테스트 리팩토링<br>(프로덕션 코드 변경 X)                        | :test_tube:test_tube                                   |
-  |      Chore       | 빌드 태스트 업데이트, 패키지 매니저를 설정하는 경우<br>(프로덕션 코드 변경 X) | :building_construction:building_construction           |
-  |      Create      | 새파일을 생성한 경우                                                          | :newspaper:newspaper                                   |
-  |      Rename      | 파일 혹은 폴더명을 수정하거나<br>옮기는 작업만인 경우                         | :truck:truck                                           |
-  |      Remove      | 파일을 삭제하는 작업만 수행한 경우                                            | :fire:fire                                             |
-  |      Update      | 여러가지 복합적인 변경인 경우                                                 | :raised_hands:raised_hands<br>:wastebasket:wastebasket |
+  |    태그 이름     | 설명                                                                          | 관련 Emoji                                    |
+  | :--------------: | :---------------------------------------------------------------------------- | :-------------------------------------------- |
+  |       Feat       | 새로운 기능을 추가할 경우                                                     | :sparkles::sparkles                           |
+  |       Fix        | 버그를 고친 경우                                                              | :bug::bug                                     |
+  |      Design      | CSS 등 사용자 UI 디자인 변경                                                  | :lipstick::lipstick                           |
+  | !BREAKING CHANGE | 대규모 수정                                                                   | :boom::boom                                   |
+  |     !HOTFIX      | 급하게 치명적인 버그를 고쳐야하는 경우                                        | :ambulance::ambulance                         |
+  |      Style       | 코드 포맷 변경, 세미 콜론 누락,<br> 코드 수정이 없는 경우                     | :art::art                                     |
+  |     Refactor     | 프로덕션 코드 리팩토링                                                        | :recycle::recycle                             |
+  |     Comment      | 주석 추가 및 변경                                                             | :bulb::bulb                                   |
+  |       Docs       | 문서를 수정한 경우                                                            | :memo::memo                                   |
+  |       Test       | 테스트 추가, 테스트 리팩토링<br>(프로덕션 코드 변경 X)                        | :test_tube::test_tube                         |
+  |      Chore       | 빌드 태스트 업데이트, 패키지 매니저를 설정하는 경우<br>(프로덕션 코드 변경 X) | :building_construction::building_construction |
+  |      Create      | 새파일을 생성한 경우                                                          | :newspaper::newspaper                         |
+  |      Rename      | 파일 혹은 폴더명을 수정하거나<br>옮기는 작업만인 경우                         | :truck::truck                                 |
+  |      Remove      | 파일을 삭제하는 작업만 수행한 경우                                            | :fire::fire                                   |
+  |      Build       | 컴파일 후 코드, 새로운 패키지 업데이트                                        | :package::package                             |
 
 - ### scope
   - 추가적인 문맥 정보를 제공하기 위한 목적으로 괄호 안에 작성
