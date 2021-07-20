@@ -72,6 +72,17 @@
   - 추가적인 문맥 정보를 제공하기 위한 목적으로 괄호 안에 작성
     > Fix(database)
 
+## :mag:Example
+
+```
+:bug: Fix(Filter): Fix data filtering method
+
+* Fix bug where data filters approach parent variables.
+* Delete unnecessary code.
+
+Resoloves: #123, #1234
+```
+
 ## :books:Referenced
 
 - [Plus Ultra-'협업을 위한 git 커밋컨벤션 설정하기'](https://overcome-the-limits.tistory.com/)
