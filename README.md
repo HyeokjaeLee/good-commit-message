@@ -68,20 +68,35 @@
   |      Remove      | 파일을 삭제하는 작업만 수행한 경우                                            | :fire::fire                                   |
   |      Build       | 컴파일 후 코드, 새로운 패키지 업데이트                                        | :package::package                             |
 
-- ### scope
+  - 그외 여러가지 Commit Message에 활용하는 Emoji들은 [Gitmoji](https://gitmoji.dev/)에서 확인 가능
+
+- ### Scope
   - 추가적인 문맥 정보를 제공하기 위한 목적으로 괄호 안에 작성
     > Fix(database)
 
 ## :mag:Example
 
-```
-:bug: Fix(Filter): Fix data filtering method
+- ### 영어로 작성 시
 
-* Fix bug where data filters approach parent variables.
-* Delete unnecessary code.
+  ```
+  🐛 Fix(Filter): Fix data filtering method
 
-Resoloves: #123, #1234
-```
+  * Fix bug that filtering method access parent variables.
+  * Delete unnecessary code.
+
+  Resoloves: #123, #1234
+  ```
+
+- ### 한글로 작성 시
+
+  ```
+  🐛 Fix(필터): 데이터 필터링 메소드 수정
+
+  * 필터링 메소드가 상위 변수에 접근하는 버그 수정
+  * 불필요한 코드 삭제
+
+  Resoloves: #123, #1234
+  ```
 
 ## :books:Referenced
 
